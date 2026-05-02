@@ -11,8 +11,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Chetas1/taskq/config"
-	"github.com/Chetas1/taskq/internal/app"
+	"github.com/Chetas-Patil/taskq/config"
+	"github.com/Chetas-Patil/taskq/internal/app"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Chetas1/taskq/config"
+	"github.com/Chetas-Patil/taskq/config"
 	"github.com/go-redis/redis/v8"
 )
 

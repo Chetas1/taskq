@@ -2,8 +2,8 @@
 
 > A scaffold for a Redis-backed distributed task queue in Go — Viper-driven config, single-instance Redis client, ready for fan-out + worker pool implementation.
 
-[![CI](https://github.com/Chetas1/taskq/actions/workflows/ci.yml/badge.svg)](https://github.com/Chetas1/taskq/actions/workflows/ci.yml)
-[![Security](https://github.com/Chetas1/taskq/actions/workflows/security.yml/badge.svg)](https://github.com/Chetas1/taskq/actions/workflows/security.yml)
+[![CI](https://github.com/Chetas-Patil/taskq/actions/workflows/ci.yml/badge.svg)](https://github.com/Chetas-Patil/taskq/actions/workflows/ci.yml)
+[![Security](https://github.com/Chetas-Patil/taskq/actions/workflows/security.yml/badge.svg)](https://github.com/Chetas-Patil/taskq/actions/workflows/security.yml)
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go&logoColor=white)](https://go.dev/dl/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io)
 

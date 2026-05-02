@@ -1,4 +1,4 @@
-module github.com/Chetas1/taskq
+module github.com/Chetas-Patil/taskq
 
 go 1.21.0
 
